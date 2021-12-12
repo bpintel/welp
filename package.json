@@ -22,11 +22,12 @@
     "body-parser": "1.19.0",
     "cors": "2.8.5",
     "express": "4.17.1",
-    "react": "16.13.1",
-    "react-dom": "16.13.1",
     "mysql": "2.18.1",
+    "mysql2": "^2.3.3",
+    "nodemon": "2.0.4",
     "path": "0.12.7",
-    "nodemon": "2.0.4"
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
   },
   "devDependencies": {
     "@babel/core": "^7.6.2",

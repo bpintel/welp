@@ -18,7 +18,7 @@ class App extends React.Component {
     }
 
     componentDidMount() {
-        // this.getDataFromDatabase()
+        this.getDataFromDatabase()
     }
 
     getDataFromDatabase() {
